@@ -1,0 +1,44 @@
+C:\Users\f5361091\AppData\Local\Temporary Projects\ExtraindoDadosWeb\bin\Debug\ExtraindoDadosWeb.exe
+C:\Users\f5361091\AppData\Local\Temporary Projects\ExtraindoDadosWeb\bin\Debug\ExtraindoDadosWeb.pdb
+C:\Users\f5361091\AppData\Local\Temporary Projects\ExtraindoDadosWeb\bin\Debug\ExtraindoDadosWeb.xml
+C:\Users\f5361091\AppData\Local\Temporary Projects\ExtraindoDadosWeb\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\f5361091\AppData\Local\Temporary Projects\ExtraindoDadosWeb\obj\x86\Debug\ExtraindoDadosWeb.Form1.resources
+C:\Users\f5361091\AppData\Local\Temporary Projects\ExtraindoDadosWeb\obj\x86\Debug\ExtraindoDadosWeb.Resources.resources
+C:\Users\f5361091\AppData\Local\Temporary Projects\ExtraindoDadosWeb\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\f5361091\AppData\Local\Temporary Projects\ExtraindoDadosWeb\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\f5361091\AppData\Local\Temporary Projects\ExtraindoDadosWeb\obj\x86\Debug\ExtraindoDadosWeb.exe
+C:\Users\f5361091\AppData\Local\Temporary Projects\ExtraindoDadosWeb\obj\x86\Debug\ExtraindoDadosWeb.xml
+C:\Users\f5361091\AppData\Local\Temporary Projects\ExtraindoDadosWeb\obj\x86\Debug\ExtraindoDadosWeb.pdb
+C:\Users\f5361091\documents\visual studio 2010\Projects\ExtraindoDadosWeb\ExtraindoDadosWeb\obj\x86\Debug\ExtraindoDadosWeb.exe
+C:\Users\f5361091\documents\visual studio 2010\Projects\ExtraindoDadosWeb\ExtraindoDadosWeb\obj\x86\Debug\ExtraindoDadosWeb.xml
+C:\Users\f5361091\documents\visual studio 2010\Projects\ExtraindoDadosWeb\ExtraindoDadosWeb\obj\x86\Debug\ExtraindoDadosWeb.pdb
+C:\Users\f5361091\documents\visual studio 2010\Projects\ExtraindoDadosWeb\ExtraindoDadosWeb\bin\Debug\ExtraindoDadosWeb.exe
+C:\Users\f5361091\documents\visual studio 2010\Projects\ExtraindoDadosWeb\ExtraindoDadosWeb\bin\Debug\ExtraindoDadosWeb.pdb
+C:\Users\f5361091\documents\visual studio 2010\Projects\ExtraindoDadosWeb\ExtraindoDadosWeb\bin\Debug\ExtraindoDadosWeb.xml
+C:\Users\f5361091\documents\visual studio 2010\Projects\ExtraindoDadosWeb\ExtraindoDadosWeb\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\f5361091\documents\visual studio 2010\Projects\ExtraindoDadosWeb\ExtraindoDadosWeb\obj\x86\Debug\ExtraindoDadosWeb.Form1.resources
+C:\Users\f5361091\documents\visual studio 2010\Projects\ExtraindoDadosWeb\ExtraindoDadosWeb\obj\x86\Debug\ExtraindoDadosWeb.Resources.resources
+C:\Users\f5361091\documents\visual studio 2010\Projects\ExtraindoDadosWeb\ExtraindoDadosWeb\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\f5361091\documents\visual studio 2010\Projects\ExtraindoDadosWeb\ExtraindoDadosWeb\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\_vbn\ExtraindoDadosWeb\ExtraindoDadosWeb\obj\x86\Debug\ExtraindoDadosWeb.exe
+C:\_vbn\ExtraindoDadosWeb\ExtraindoDadosWeb\obj\x86\Debug\ExtraindoDadosWeb.xml
+C:\_vbn\ExtraindoDadosWeb\ExtraindoDadosWeb\obj\x86\Debug\ExtraindoDadosWeb.pdb
+C:\_vbn\ExtraindoDadosWeb\ExtraindoDadosWeb\bin\Debug\ExtraindoDadosWeb.exe
+C:\_vbn\ExtraindoDadosWeb\ExtraindoDadosWeb\bin\Debug\ExtraindoDadosWeb.pdb
+C:\_vbn\ExtraindoDadosWeb\ExtraindoDadosWeb\bin\Debug\ExtraindoDadosWeb.xml
+C:\_vbn\ExtraindoDadosWeb\ExtraindoDadosWeb\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\_vbn\ExtraindoDadosWeb\ExtraindoDadosWeb\obj\x86\Debug\ExtraindoDadosWeb.Form1.resources
+C:\_vbn\ExtraindoDadosWeb\ExtraindoDadosWeb\obj\x86\Debug\ExtraindoDadosWeb.Resources.resources
+C:\_vbn\ExtraindoDadosWeb\ExtraindoDadosWeb\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\_vbn\ExtraindoDadosWeb\ExtraindoDadosWeb\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\fnsoares\Desktop\ExtraindoDadosWeb\ExtraindoDadosWeb\bin\Debug\ExtraindoDadosWeb.exe
+C:\Users\fnsoares\Desktop\ExtraindoDadosWeb\ExtraindoDadosWeb\bin\Debug\ExtraindoDadosWeb.pdb
+C:\Users\fnsoares\Desktop\ExtraindoDadosWeb\ExtraindoDadosWeb\bin\Debug\ExtraindoDadosWeb.xml
+C:\Users\fnsoares\Desktop\ExtraindoDadosWeb\ExtraindoDadosWeb\obj\x86\Debug\ExtraindoDadosWeb.vbprojAssemblyReference.cache
+C:\Users\fnsoares\Desktop\ExtraindoDadosWeb\ExtraindoDadosWeb\obj\x86\Debug\ExtraindoDadosWeb.Form1.resources
+C:\Users\fnsoares\Desktop\ExtraindoDadosWeb\ExtraindoDadosWeb\obj\x86\Debug\ExtraindoDadosWeb.Resources.resources
+C:\Users\fnsoares\Desktop\ExtraindoDadosWeb\ExtraindoDadosWeb\obj\x86\Debug\ExtraindoDadosWeb.vbproj.GenerateResource.cache
+C:\Users\fnsoares\Desktop\ExtraindoDadosWeb\ExtraindoDadosWeb\obj\x86\Debug\ExtraindoDadosWeb.vbproj.CoreCompileInputs.cache
+C:\Users\fnsoares\Desktop\ExtraindoDadosWeb\ExtraindoDadosWeb\obj\x86\Debug\ExtraindoDadosWeb.exe
+C:\Users\fnsoares\Desktop\ExtraindoDadosWeb\ExtraindoDadosWeb\obj\x86\Debug\ExtraindoDadosWeb.xml
+C:\Users\fnsoares\Desktop\ExtraindoDadosWeb\ExtraindoDadosWeb\obj\x86\Debug\ExtraindoDadosWeb.pdb
