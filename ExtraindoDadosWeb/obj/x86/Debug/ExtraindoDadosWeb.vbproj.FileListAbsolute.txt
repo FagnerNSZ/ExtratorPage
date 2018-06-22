@@ -42,3 +42,14 @@ C:\Users\fnsoares\Desktop\ExtraindoDadosWeb\ExtraindoDadosWeb\obj\x86\Debug\Extr
 C:\Users\fnsoares\Desktop\ExtraindoDadosWeb\ExtraindoDadosWeb\obj\x86\Debug\ExtraindoDadosWeb.exe
 C:\Users\fnsoares\Desktop\ExtraindoDadosWeb\ExtraindoDadosWeb\obj\x86\Debug\ExtraindoDadosWeb.xml
 C:\Users\fnsoares\Desktop\ExtraindoDadosWeb\ExtraindoDadosWeb\obj\x86\Debug\ExtraindoDadosWeb.pdb
+C:\Users\fnsoares\Desktop\ExtraindoDadosWeb\ExtratorPage\ExtraindoDadosWeb\bin\Debug\ExtraindoDadosWeb.exe
+C:\Users\fnsoares\Desktop\ExtraindoDadosWeb\ExtratorPage\ExtraindoDadosWeb\bin\Debug\ExtraindoDadosWeb.pdb
+C:\Users\fnsoares\Desktop\ExtraindoDadosWeb\ExtratorPage\ExtraindoDadosWeb\bin\Debug\ExtraindoDadosWeb.xml
+C:\Users\fnsoares\Desktop\ExtraindoDadosWeb\ExtratorPage\ExtraindoDadosWeb\obj\x86\Debug\ExtraindoDadosWeb.vbprojAssemblyReference.cache
+C:\Users\fnsoares\Desktop\ExtraindoDadosWeb\ExtratorPage\ExtraindoDadosWeb\obj\x86\Debug\ExtraindoDadosWeb.Form1.resources
+C:\Users\fnsoares\Desktop\ExtraindoDadosWeb\ExtratorPage\ExtraindoDadosWeb\obj\x86\Debug\ExtraindoDadosWeb.Resources.resources
+C:\Users\fnsoares\Desktop\ExtraindoDadosWeb\ExtratorPage\ExtraindoDadosWeb\obj\x86\Debug\ExtraindoDadosWeb.vbproj.GenerateResource.cache
+C:\Users\fnsoares\Desktop\ExtraindoDadosWeb\ExtratorPage\ExtraindoDadosWeb\obj\x86\Debug\ExtraindoDadosWeb.vbproj.CoreCompileInputs.cache
+C:\Users\fnsoares\Desktop\ExtraindoDadosWeb\ExtratorPage\ExtraindoDadosWeb\obj\x86\Debug\ExtraindoDadosWeb.exe
+C:\Users\fnsoares\Desktop\ExtraindoDadosWeb\ExtratorPage\ExtraindoDadosWeb\obj\x86\Debug\ExtraindoDadosWeb.xml
+C:\Users\fnsoares\Desktop\ExtraindoDadosWeb\ExtratorPage\ExtraindoDadosWeb\obj\x86\Debug\ExtraindoDadosWeb.pdb
